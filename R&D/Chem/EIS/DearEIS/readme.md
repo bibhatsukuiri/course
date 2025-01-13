@@ -16,20 +16,18 @@ The original source code can be found in the official GitHub repository:
 
 I (Bibhatsu Kuiri) have:
 1. Packaged the original DearEIS project into a standalone executable file, making it easier for users who may not have Python or programming knowledge.
-2. Added a **license verification system** and **QR code integration** for course-related promotion.
-3. Provided a simple setup process for running the application without requiring manual installation of dependencies.
+2. Provided a simple setup process for running the application without requiring manual installation of dependencies.
+3. Hope you appreciate teh hardwork :)
 
 This version is built using:
 - **Python 3.10+**
-- **PyInstaller** for creating the executable.
-- **Tkinter** for UI customization.
 
 ---
 
 ## Installation & Usage
 
 ### Prerequisites
-No special prerequisites are needed to run the executable, as it is bundled with all dependencies. Simply download and run the `.exe` file.
+No special prerequisites are needed to run the executable, as it is bundled with all dependencies. Simply download and run the `.exe` file. It works on Windows 11. 
 
 ### Steps to Use:
 1. **Download the Executable**:

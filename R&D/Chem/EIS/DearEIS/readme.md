@@ -57,7 +57,7 @@ If you have questions about the functionality or scientific details of DearEIS, 
 
 - **DearEIS Official GitHub Repository**: [https://github.com/vyrjana/DearEIS](https://github.com/vyrjana/DearEIS)
 - **DearEIS Documentation**: [https://vyrjana.github.io/DearEIS](https://vyrjana.github.io/DearEIS)
-- **Compiled Version Download**: [Download Link](#)
+- **Compiled Version Download**: [Download Link](https://drive.google.com/file/d/1LlSJRixD5sztaXNMyjqZJEoaPU3SHe70/view?usp=sharing)
 - **YouTube Channel**: [Learn with BK](https://www.youtube.com/@LearnwithBK)
 
 ---

